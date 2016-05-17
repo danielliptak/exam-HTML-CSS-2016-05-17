@@ -1,3 +1,31 @@
+.wraper {
+  display: flex;
+  width: 540px;
+  height: 180px;
+  border: 1px solid black;
+  font-family: arial;
+  font-size: 14px;
+  background: silver url(../images/edit-icon.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+main {
+  padding: 20px;
+  text-transform:
+}
 img {
-  border-right: 1 px solid black;
+  width: 95px;
+  height: 95px;
+  padding: 0px 20px 45px;
+  margin-top: 20px;
+  border-right: 1px solid black;
+}
+h1 {
+  font-size: 24px;
+  font-style: italic;
+}
+.edit {
+  width: 25px;
+  height: 25px;
+  border: 0px;
 }
